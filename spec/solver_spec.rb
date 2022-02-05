@@ -18,7 +18,7 @@ describe Solver do
     it "fizzbuzz should return 'fizz' when passed in 3" do
       expect(@solver.fizzbuzz(3)).to eq 'fizz'
     end
-  
+
     it "fizzbuzz should return 'buzz' when passed in 5" do
       expect(@solver.fizzbuzz(5)).to eq 'buzz'
     end
