@@ -1,55 +1,31 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+# TDD-PROJECT
 
-# Project Name
+In this project we implemented a class with some methods (factorial, reverse and fizzbuzz) using the test-driven development (TDD) approach.
 
-> One paragraph statement about the project.
-
-![screenshot](./app_screenshot.png)
-
-Additional description about the project and its features.
-
-## Built With
-
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo
-
-[Live Demo Link](https://livedemo.com)
+### Prerequisites
+You must have Ruby installed on your local machine
 
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
+Clone the repo: https://github.com/codepantherr/tdd-project.git
 
 
 ## Authors
 
-👤 **Author1**
+👤 **Codepantherr**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@Promise Eze](https://github.com/codepantherr)
+- Twitter: [@Promise Eze](https://twitter.com/codepantherr)
+- LinkedIn: [Promise Eze](https://linkedin.com/in/promise-eze)
 
-👤 **Author2**
+
+👤 **Amr Ahmed**
+
+- GitHub: [@Amrhub](https://github.com/Amrhub/)
+- LinkedIn: [Amr Ahmed](https://www.linkedin.com/in/amr-ahmed-655420191/)
+
+👤 **Chike**
 
 - GitHub: [@githubhandle](https://github.com/githubhandle)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
